@@ -1,7 +1,13 @@
 # Emprestimo-de-Livros
 
-Tecnologias Utilizadas:
-C#
+## About the Project
+A system that is a CRUD application allowing the management of book loans.
 
-Sobre o Projeto:
-Um sistema que trata-se de um CRUD que permite realizar o emprestimo de Livros.
+## Technologies Used
+- **C#**
+
+### Tool Versions
+- C# 12.0  
+- .NET 8.0  
+- Microsoft Visual Studio 2022 17.8.6  
+- Microsoft SQL Server Management Studio 18.12.1

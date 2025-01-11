@@ -26,20 +26,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\vinic\source\repos\EmprestimoLivros\EmprestimoLivros
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/vinic/source/repos/EmprestimoLivros/EmprestimoLivros/Views/Emprestimo/Cadastrar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzdGltb1xDYWRhc3RyYXIuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/vinic/source/repos/EmprestimoLivros/EmprestimoLivros/Views/Emprestimo/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzdGltb1xJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/vinic/source/repos/EmprestimoLivros/EmprestimoLivros/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/vinic/source/repos/EmprestimoLivros/EmprestimoLivros/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vinic/source/repos/EmprestimoLivros/EmprestimoLivros/Views/Loan/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9hblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vinic/source/repos/EmprestimoLivros/EmprestimoLivros/Views/Loan/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9hblxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/vinic/source/repos/EmprestimoLivros/EmprestimoLivros/Views/Shared/Error.cshtml]

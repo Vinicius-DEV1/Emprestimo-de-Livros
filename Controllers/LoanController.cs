@@ -4,12 +4,12 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace EmprestimoLivros.Controllers
 {
-    public class EmprestimoController : Controller
+    public class LoanController : Controller
     {
 
         readonly private ApplicationDbContext _db;
 
-        public EmprestimoController(ApplicationDbContext db)
+        public LoanController(ApplicationDbContext db)
         {
             _db = db;
         }
@@ -22,9 +22,9 @@ namespace EmprestimoLivros.Controllers
             return View(emprestimos);
         }
 
-        public IActionResult Cadastrar() 
+        public IActionResult Register() 
         {
-            return View(Cadastrar);
+            return View();
         }
     }
 }

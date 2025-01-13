@@ -1,0 +1,41 @@
+﻿@model LoansModel
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["title"] = "Delete Loan";
+}
+<div class="container bg-dark p-5 rounded-5">
+
+    <div class="mb-5 text-center">
+        <h1 class="text-light"> Loan Delete</h1>
+    </div>
+
+    <form method="post" asp-controller="Loan" asp-action="Delete">
+
+        <input type="hidden" asp-for="Id" />
+
+        <div class="mb-3">
+            <label for="Receiver" class="form-label text-light">Receiver</label>
+            <input type="text" class="form-control" asp-for="Receiver" id="Receiver" placeholder="Who is receiving the book?" disabled>
+        </div>
+
+
+        <div class="mb-3">
+            <label for="Supplier" class="form-label text-light">Supplier</label>
+            <input type="text" class="form-control" asp-for="Supplier" id="Supplier" placeholder="Who is lending a book?" disabled>
+        </div>
+
+
+        <div class="mb-3">
+            <label for="book" class="form-label text-light">Book</label>
+            <input type="text" class="form-control" asp-for="BorrowedBook" id="book" placeholder="Which book is borrowed?" disabled>
+        </div>
+
+        <div class="d-flex gap-5 mt-5">
+            <button type="submit" class="btn btn-success w-58">Submit</button>
+            <a class="btn btn-primary w-50" asp-controller="Loan" asp-action="Index">Back</a>
+        </div>
+
+    </form>
+</div>

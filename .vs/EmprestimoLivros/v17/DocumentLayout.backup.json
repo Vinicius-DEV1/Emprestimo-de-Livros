@@ -38,8 +38,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAlwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T16:39:55.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T16:39:55.892Z"
             },
             {
               "$type": "Document",
@@ -64,6 +63,10 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-07T16:38:38.407Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

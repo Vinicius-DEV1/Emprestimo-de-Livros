@@ -9,6 +9,6 @@ namespace EmprestimoLivros.data
         {
         }
 
-        public DbSet<EmprestimosModel> Emprestimos { get; set; }
+        public DbSet<LoansModel> Loans { get; set; }
     }
 }

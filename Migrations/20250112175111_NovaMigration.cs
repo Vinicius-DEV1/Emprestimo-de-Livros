@@ -6,25 +6,25 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace EmprestimoLivros.Migrations
 {
     /// <inheritdoc />
-    public partial class CriacaodoBanco : Migration
+    public partial class NovaMigration : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "Emprestimos",
+                name: "Loans",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    Recebedor = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Fornecedor = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    LivroEmprestado = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    dataUltimaAtualizacao = table.Column<DateTime>(type: "datetime2", nullable: false)
+                    Receiver = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Supplier = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    BorrowedBook = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    LastUpdate = table.Column<DateTime>(type: "datetime2", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Emprestimos", x => x.Id);
+                    table.PrimaryKey("PK_Loans", x => x.Id);
                 });
         }
 
@@ -32,7 +32,7 @@ namespace EmprestimoLivros.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "Emprestimos");
+                name: "Loans");
         }
     }
 }

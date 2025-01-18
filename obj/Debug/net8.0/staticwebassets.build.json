@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gVwg44t+yXeb2P2wU3kEOrjGed5yqRf2kzqdXJqk9wg=",
+  "Hash": "mMaFwaHPIku56Xk11PdzFb3FxlMqxqxkiaaSQq5maUw=",
   "Source": "EmprestimoLivros",
   "BasePath": "_content/EmprestimoLivros",
   "Mode": "Default",
@@ -59,6 +59,27 @@
       "OriginalItemSpec": "C:\\Users\\vinic\\source\\repos\\EmprestimoLivros\\EmprestimoLivros\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EmprestimoLivros.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\vinic\\source\\repos\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\css\\Materia.css",
+      "SourceId": "EmprestimoLivros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinic\\source\\repos\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\",
+      "BasePath": "_content/EmprestimoLivros",
+      "RelativePath": "css/Materia#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qpmgpainc2",
+      "Integrity": "AiiuJGwmESj590/tFcynhSlzWQOx0KdZBhp8lwBSKvI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Materia.css"
+    },
+    {
       "Identity": "C:\\Users\\vinic\\source\\repos\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\css\\site.css",
       "SourceId": "EmprestimoLivros",
       "SourceType": "Discovered",
@@ -99,6 +120,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\vinic\\source\\repos\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\img\\book.png",
+      "SourceId": "EmprestimoLivros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinic\\source\\repos\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\",
+      "BasePath": "_content/EmprestimoLivros",
+      "RelativePath": "img/book#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0l1xcdzd46",
+      "Integrity": "vCnmIpe0DUvWT35f5CE04sMDiBxHQX6WA43J2EBsRU8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\book.png"
     },
     {
       "Identity": "C:\\Users\\vinic\\source\\repos\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\js\\site.js",
@@ -1321,6 +1363,88 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/Materia.css",
+      "AssetFile": "C:\\Users\\vinic\\source\\repos\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\css\\Materia.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "308799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AiiuJGwmESj590/tFcynhSlzWQOx0KdZBhp8lwBSKvI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 13:50:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AiiuJGwmESj590/tFcynhSlzWQOx0KdZBhp8lwBSKvI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Materia.qpmgpainc2.css",
+      "AssetFile": "C:\\Users\\vinic\\source\\repos\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\css\\Materia.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "308799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AiiuJGwmESj590/tFcynhSlzWQOx0KdZBhp8lwBSKvI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 13:50:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qpmgpainc2"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Materia.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AiiuJGwmESj590/tFcynhSlzWQOx0KdZBhp8lwBSKvI="
+        }
+      ]
+    },
+    {
       "Route": "css/site.c2tiyv64ts.css",
       "AssetFile": "C:\\Users\\vinic\\source\\repos\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1645,6 +1769,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "img/book.0l1xcdzd46.png",
+      "AssetFile": "C:\\Users\\vinic\\source\\repos\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\img\\book.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15510"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vCnmIpe0DUvWT35f5CE04sMDiBxHQX6WA43J2EBsRU8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 15:44:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0l1xcdzd46"
+        },
+        {
+          "Name": "label",
+          "Value": "img/book.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vCnmIpe0DUvWT35f5CE04sMDiBxHQX6WA43J2EBsRU8="
+        }
+      ]
+    },
+    {
+      "Route": "img/book.png",
+      "AssetFile": "C:\\Users\\vinic\\source\\repos\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\img\\book.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15510"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vCnmIpe0DUvWT35f5CE04sMDiBxHQX6WA43J2EBsRU8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 15:44:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vCnmIpe0DUvWT35f5CE04sMDiBxHQX6WA43J2EBsRU8="
         }
       ]
     },

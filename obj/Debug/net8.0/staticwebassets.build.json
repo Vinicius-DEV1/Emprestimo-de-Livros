@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mMaFwaHPIku56Xk11PdzFb3FxlMqxqxkiaaSQq5maUw=",
+  "Hash": "xp+vzcYJO8I/nzo5ySv7hNXsgaudDLomy8JG0TS5TXI=",
   "Source": "EmprestimoLivros",
   "BasePath": "_content/EmprestimoLivros",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qpmgpainc2",
-      "Integrity": "AiiuJGwmESj590/tFcynhSlzWQOx0KdZBhp8lwBSKvI=",
+      "Fingerprint": "xspcxgpuek",
+      "Integrity": "oR5TrydVCqZ5U6bNNoFA1HSJD8HvciPGw3Ye0Jp04tQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Materia.css"
@@ -157,8 +157,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xtxxf3hu2r",
-      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
+      "Fingerprint": "kzt5gzg50n",
+      "Integrity": "EOOmPyvgi0ksGvjXZ5818Bb4WrX7rU4WYeAJ8VSi6y8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -1373,7 +1373,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "308799"
+          "Value": "308771"
         },
         {
           "Name": "Content-Type",
@@ -1381,11 +1381,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AiiuJGwmESj590/tFcynhSlzWQOx0KdZBhp8lwBSKvI=\""
+          "Value": "\"oR5TrydVCqZ5U6bNNoFA1HSJD8HvciPGw3Ye0Jp04tQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 13:50:57 GMT"
+          "Value": "Sat, 18 Jan 2025 14:05:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1395,12 +1395,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AiiuJGwmESj590/tFcynhSlzWQOx0KdZBhp8lwBSKvI="
+          "Value": "sha256-oR5TrydVCqZ5U6bNNoFA1HSJD8HvciPGw3Ye0Jp04tQ="
         }
       ]
     },
     {
-      "Route": "css/Materia.qpmgpainc2.css",
+      "Route": "css/Materia.xspcxgpuek.css",
       "AssetFile": "C:\\Users\\vinic\\source\\repos\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\css\\Materia.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1410,7 +1410,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "308799"
+          "Value": "308771"
         },
         {
           "Name": "Content-Type",
@@ -1418,11 +1418,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AiiuJGwmESj590/tFcynhSlzWQOx0KdZBhp8lwBSKvI=\""
+          "Value": "\"oR5TrydVCqZ5U6bNNoFA1HSJD8HvciPGw3Ye0Jp04tQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 13:50:57 GMT"
+          "Value": "Sat, 18 Jan 2025 14:05:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1432,7 +1432,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qpmgpainc2"
+          "Value": "xspcxgpuek"
         },
         {
           "Name": "label",
@@ -1440,7 +1440,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AiiuJGwmESj590/tFcynhSlzWQOx0KdZBhp8lwBSKvI="
+          "Value": "sha256-oR5TrydVCqZ5U6bNNoFA1HSJD8HvciPGw3Ye0Jp04tQ="
         }
       ]
     },
@@ -1865,7 +1865,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "1269"
         },
         {
           "Name": "Content-Type",
@@ -1873,11 +1873,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"EOOmPyvgi0ksGvjXZ5818Bb4WrX7rU4WYeAJ8VSi6y8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 31 Dec 2024 19:07:45 GMT"
+          "Value": "Sat, 18 Jan 2025 14:25:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1887,12 +1887,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-EOOmPyvgi0ksGvjXZ5818Bb4WrX7rU4WYeAJ8VSi6y8="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js",
+      "Route": "js/site.kzt5gzg50n.js",
       "AssetFile": "C:\\Users\\vinic\\source\\repos\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1902,7 +1902,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "1269"
         },
         {
           "Name": "Content-Type",
@@ -1910,11 +1910,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"EOOmPyvgi0ksGvjXZ5818Bb4WrX7rU4WYeAJ8VSi6y8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 31 Dec 2024 19:07:45 GMT"
+          "Value": "Sat, 18 Jan 2025 14:25:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1924,7 +1924,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "kzt5gzg50n"
         },
         {
           "Name": "label",
@@ -1932,7 +1932,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-EOOmPyvgi0ksGvjXZ5818Bb4WrX7rU4WYeAJ8VSi6y8="
         }
       ]
     },

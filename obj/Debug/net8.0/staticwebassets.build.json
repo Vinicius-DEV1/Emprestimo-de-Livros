@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xp+vzcYJO8I/nzo5ySv7hNXsgaudDLomy8JG0TS5TXI=",
+  "Hash": "3jQNXelzM33iYOnj/KKWvN5pnN0jqQ1KxmMMSWWE/iU=",
   "Source": "EmprestimoLivros",
   "BasePath": "_content/EmprestimoLivros",
   "Mode": "Default",
@@ -157,8 +157,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "kzt5gzg50n",
-      "Integrity": "EOOmPyvgi0ksGvjXZ5818Bb4WrX7rU4WYeAJ8VSi6y8=",
+      "Fingerprint": "evwg2z0tsz",
+      "Integrity": "avh4EV2qnKs9wjKW2prXw7G+by5buKM3l0kso4c/2D8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -1855,6 +1855,51 @@
       ]
     },
     {
+      "Route": "js/site.evwg2z0tsz.js",
+      "AssetFile": "C:\\Users\\vinic\\source\\repos\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"avh4EV2qnKs9wjKW2prXw7G+by5buKM3l0kso4c/2D8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 14:27:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "evwg2z0tsz"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-avh4EV2qnKs9wjKW2prXw7G+by5buKM3l0kso4c/2D8="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
       "AssetFile": "C:\\Users\\vinic\\source\\repos\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\js\\site.js",
       "Selectors": [],
@@ -1865,7 +1910,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1269"
+          "Value": "1253"
         },
         {
           "Name": "Content-Type",
@@ -1873,11 +1918,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EOOmPyvgi0ksGvjXZ5818Bb4WrX7rU4WYeAJ8VSi6y8=\""
+          "Value": "\"avh4EV2qnKs9wjKW2prXw7G+by5buKM3l0kso4c/2D8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 14:25:17 GMT"
+          "Value": "Sat, 18 Jan 2025 14:27:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1887,52 +1932,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EOOmPyvgi0ksGvjXZ5818Bb4WrX7rU4WYeAJ8VSi6y8="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.kzt5gzg50n.js",
-      "AssetFile": "C:\\Users\\vinic\\source\\repos\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\js\\site.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1269"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"EOOmPyvgi0ksGvjXZ5818Bb4WrX7rU4WYeAJ8VSi6y8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 14:25:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "kzt5gzg50n"
-        },
-        {
-          "Name": "label",
-          "Value": "js/site.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-EOOmPyvgi0ksGvjXZ5818Bb4WrX7rU4WYeAJ8VSi6y8="
+          "Value": "sha256-avh4EV2qnKs9wjKW2prXw7G+by5buKM3l0kso4c/2D8="
         }
       ]
     },

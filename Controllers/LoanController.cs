@@ -71,6 +71,8 @@ namespace EmprestimoLivros.Controllers
                 _db.Loans.Add(loans);
                 _db.SaveChanges();
 
+                TempData["SuccessMessage"] = "registration completed successfully";
+
                 return RedirectToAction("Index");
             }
 
@@ -84,6 +86,8 @@ namespace EmprestimoLivros.Controllers
             {
                 _db.Loans.Update(loan);
                 _db.SaveChanges();
+
+                TempData["SuccessMessage"] = "change completed successfully";
 
                 return RedirectToAction("Index");
             }
@@ -101,6 +105,8 @@ namespace EmprestimoLivros.Controllers
 
             _db.Loans.Remove(loan);
             _db.SaveChanges();
+
+            TempData["SuccessMessage"] = "deletion completed successfully";
 
             return RedirectToAction("Index");
         }
